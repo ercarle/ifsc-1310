@@ -2,4 +2,4 @@
 
 ### assignments
 * **__[html 5 assessment](https://ercarle.github.io/ifsc-1310/assignments/html5assessment.html) @ 2.24.25__**
-* **...**
+* **__[flexbox froggy lvl. 24](https://github.com/ercarle/ifsc-1310/assignments/flexbox-froggy.md) @ 3.5.25__**
