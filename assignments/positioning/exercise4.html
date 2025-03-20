@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 4 - Absolute</title>
+    <style>
+        html {
+            box-sizing: border-box;
+        }
+        *, *:before, *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            background-color: #ECECEC;
+            font-weight: bold;
+            font-family: Tahoma, Geneva, sans-serif;
+            color: #000;
+            text-align: center;
+            line-height: 24px;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            margin-top: 20px;
+        }
+
+        #wrapper {
+            position: relative;
+            background-color: #FFF;
+            border: 1px solid #c0c0c0;
+            width: 500px;
+            height: 500px;
+            margin: 20px auto;
+            text-shadow: 2px 2px #00000010;
+        }
+
+        .box {
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #navy { background-color: #001f3f; top: 0; left: 0; }
+        #teal { background-color: #39CCCC; top: 0; right: 0; }
+        #blue { background-color: #0074D9; bottom: 0; left: 0; }
+        #aqua { background-color: #7FDBFF; bottom: 0; right: 0; }
+
+        #footer {
+            background-color: #666;
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exercise</h1>
+    <section id="wrapper">
+        <div id="footer">Footer</div>
+        <div id="navy" class="box">Navy</div>
+        <div id="teal" class="box">Teal</div>
+        <div id="blue" class="box">Blue</div>
+        <div id="aqua" class="box">Aqua</div>
+    </section>
+</body>
+</html>
