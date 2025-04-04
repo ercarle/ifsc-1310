@@ -9,3 +9,4 @@
   + [exercise #2](https://ercarle.github.io/ifsc-1310/assignments/positioning/exercise2.html)
   + [exercise #3](https://ercarle.github.io/ifsc-1310/assignments/positioning/exercise3.html)
   + [exercise #4](https://ercarle.github.io/ifsc-1310/assignments/positioning/exercise4.html)
+* [transparent background image](https://ercarle.github.io/ifsc-1310/assignments/transparent-background.png)
