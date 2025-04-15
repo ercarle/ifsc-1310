@@ -2,9 +2,9 @@
 
 ### assignments
 * [html 5 assessment](https://ercarle.github.io/ifsc-1310/assignments/html5assessment.html)
-* [flexbox froggy lvl. 24](https://github.com/ercarle/ifsc-1310/assignments/flexbox-froggy)
-* [css demo](https://github.com/ercarle/ifsc-1310/assignments/css-demo/index.html)
-  + [css style](https://github.com/ercarle/ifsc-1310/assignments/css-demo/style.css)
+* [flexbox froggy lvl. 24](ttps://ercarle.github.io/ifsc-1310/assignments/flexbox-froggy.png)
+* [css demo](https://github.com/ercarle.github.io/ifsc-1310/assignments/css-demo/index.html)
+  + [css style](https://github.com/ercarle.github.io/ifsc-1310/assignments/css-demo/style.css)
 * [positioning lab](https://github.com/ercarle/ifsc-1310/assignments/positioning)
   + [exercise #1](https://ercarle.github.io/ifsc-1310/assignments/positioning/exercise1.html)
   + [exercise #2](https://ercarle.github.io/ifsc-1310/assignments/positioning/exercise2.html)
