@@ -12,5 +12,6 @@
   + [exercise #4](https://ercarle.github.io/ifsc-1310/assignments/positioning/exercise4.html)
 * [transparent background image](https://ercarle.github.io/ifsc-1310/assignments/transparent-background.png)
 * [gravit design](https://ercarle.github.io/ifsc-1310/assignments/gravit.png)
+* [moon bear](https://ercarle.github.io/ifsc-1310/assignments/moon-bear.png)
 * [final project](https://ercarle.github.io/ifsc-1310/assignments/final-project)
 * [slick demo](https://ercarle.github.io/ifsc-1310/assignments/slick-demo)
