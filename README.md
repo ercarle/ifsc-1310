@@ -14,6 +14,7 @@
 * [gravit design](https://ercarle.github.io/ifsc-1310/assignments/gravit.png)
 * [moon bear](https://ercarle.github.io/ifsc-1310/assignments/moon-bear.png)
 * [final project](https://ercarle.github.io/ifsc-1310/assignments/final-project)
+  + [final project, revised](https://ercarle.github.io/ifsc-1310/assignments/final-project-revised)
 * [slick demo](https://ercarle.github.io/ifsc-1310/assignments/slick-demo)
 
 Web-view: https://ercarle.github.io/ifsc-1310/
