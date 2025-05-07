@@ -13,3 +13,4 @@
 * [transparent background image](https://ercarle.github.io/ifsc-1310/assignments/transparent-background.png)
 * [gravit design](https://ercarle.github.io/ifsc-1310/assignments/gravit.png)
 * [final project](https://ercarle.github.io/ifsc-1310/assignments/final-project)
+* [slick demo](https://ercarle.github.io/ifsc-1310/assignments/slick-demo)
