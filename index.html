@@ -29,9 +29,22 @@
             font-size: 20px;
         }
       
-        h2 {
+        h2, h3.section-title {
             color: #34495e;
             margin-top: 30px;
+            position: relative;
+            padding-left: 12px;
+        }
+      
+        h2::before, h3.section-title::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 2px;
+            bottom: 2px;
+            width: 4px;
+            background: #2980b9;
+            border-radius: 2px;
         }
       
         ul {
@@ -52,12 +65,12 @@
             text-decoration: underline;
         }
       
-        a:hover {
-            text-decoration: underline;
-        }
-      
         .indent {
             padding-left: 20px;
+        }
+        
+        .thoughts, .reflection {
+            margin-top: 30px;
         }
     </style>
 </head>
@@ -93,5 +106,25 @@
         </li>
         <li><a href="https://ercarle.github.io/ifsc-1310/assignments/slick-demo">Slick Demo</a></li>
     </ul>
+    
+    <div class="thoughts">
+        <h3 class="section-title">Thoughts on Progressive Enhancement</h3>
+        <p>Aaron Gustafson's article on progressive enhancement is like a wake-up call for web developers, especially for students and those who are amateurs at programming. It flips the old-school "graceful degradation" approach on its head, where you build for the fanciest browsers first and then grudgingly make things work for older ones. Instead, progressive enhancement says: Start with the basics (your content) and make sure it works everywhere, then layer on the fancy stuff. It's like building a house with a solid foundation before adding the paint and decorations.</p>
+
+        <p>The Peanut M&M analogy is pretty useful and makes the whole concept click. The peanut is your raw HTML, the core that even text-only browsers or screen readers can digest. The chocolate coating is CSS, making things look nice for most users, and the candy shell is JavaScript, adding interactivity for browsers that can handle it. The best part is, if someone can't "eat" the chocolate or candy (because they're on an old phone or have JS disabled), they still get the peanut, the actual content, making sure no one's left out.</p>
+
+        <p>As someone who web-develops for academic purposes, this mindset is super freeing. Instead of stressing over making every browser render my site exactly the same, I can focus on what really matters: delivering content in the cleanest, most accessible way possible. It's not about limiting creativity, it's about making sure the web works for everyone, not just people with the latest gadgets. Plus, it future-proofs your work. If a new browser or device comes out, the core experience is already solid.</p>
+    </div>
+
+    <div class="reflection">
+        <h3 class="section-title">Mars Rovers Reflection & Revision</h3>
+        <p>The experience of making the website was rather simple. I don't have too much to reflect on, but, if I were to do it over again, I would make it more full-fledged. I'm not that advanced at HTML, or css, so I did what I could.</p>
+
+        <p>People said the site was a bit dull, so I added gradients to the upper-half header, and the footer. I also changed a bit of text and made the footer text stand out a bit more. I couldn't get a lot of feedback from people because they weren't that experienced, but people just said it lacked contrast, so that's what I added. They said the rest was pretty okay, and that it looked decent for a student-made site. As to whether that's true or not, I don't know.</p>
+        
+        <p>I think I did well on making the site well-rounded. It has nice animations, nothings out of wack, and everything looks just as appealing as it does on computer, on phone. It's very accessible.</p>
+
+        <p>I don't think the difference is TOO great, but I'm not capable of anything too crazy yet. See the revised site <a href="https://ercarle.github.io/ifsc-1310/assignments/positioning/final-project-revised">here.</a></p>
+    </div>
 </body>
 </html>
